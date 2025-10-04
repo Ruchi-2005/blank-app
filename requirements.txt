@@ -1,6 +1,7 @@
 streamlit
 pandas
 plotly
+altair
 joblib
 scikit-learn
-altair
+matplotlib
