@@ -5,3 +5,6 @@ altair
 joblib
 scikit-learn
 matplotlib
+seaborn
+nltk
+regex
